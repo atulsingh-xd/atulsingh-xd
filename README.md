@@ -30,6 +30,6 @@ Other: API Development, Problem-Solving, Chess Strategy
 📫 Let’s Connect!
 
 📩 Email: atulsingh.xd@gmail.com 
-🔗 LinkedIn: @atulsingh30
+🔗 [LinkedIn](linkedin.com/in/atulsinghxd/)
 
 💡 Always open to collaborations, tech discussions, and new opportunities!
