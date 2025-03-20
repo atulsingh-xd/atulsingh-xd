@@ -4,9 +4,8 @@
 
 🔹 About Me
 
-I’m a passionate Web Developer with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js). My focus is on building scalable, efficient, and user-friendly applications, ensuring clean UI/UX with Tailwind CSS, and writing optimized code with Data Structures and Algorithms (DSA).
+I’m a passionate Web Developer with expertise in MERN Stack. My focus is on building scalable, efficient, and user-friendly applications, ensuring clean UI/UX with Tailwind CSS, and writing optimized code with Data Structures.
 
-Beyond coding, I love playing chess, which enhances my strategic thinking and problem-solving approach—skills I apply to software development as well.
 
 🔥 What I’m Good At
 
@@ -19,7 +18,7 @@ Beyond coding, I love playing chess, which enhances my strategic thinking and pr
 
 Frontend: React.js, Tailwind CSS, JavaScript (ES6+), HTML, CSS
 
-Backend: Node.js, Express.js
+Backend: Node.js, Express.js, Java
 
 Database: MongoDB
 
