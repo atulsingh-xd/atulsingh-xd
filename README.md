@@ -24,7 +24,7 @@ Database: MongoDB
 
 Version Control: Git & GitHub
 
-Other: API Development, Problem-Solving, Chess Strategy
+Other: API Development, Problem-Solving
 
 
 📫 Let’s Connect!
