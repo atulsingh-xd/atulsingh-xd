@@ -18,9 +18,9 @@ I’m a passionate Web Developer with expertise in MERN Stack. My focus is on bu
 
 Frontend: React.js, Tailwind CSS, JavaScript (ES6+), HTML, CSS
 
-Backend: Node.js, Express.js, Java
+Backend: Node.js, Express.js, Python, Flask 
 
-Database: MongoDB
+Database: MongoDB, SQL
 
 Version Control: Git & GitHub
 
