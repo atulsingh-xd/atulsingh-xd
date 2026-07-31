@@ -10,8 +10,11 @@ I’m a passionate Web Developer with expertise in MERN Stack. My focus is on bu
  What I’m Good At
 
 ✔ Full-Stack Web Development – MERN Stack & modern UI with Tailwind CSS
+
 ✔ Optimized Problem-Solving – Strong grasp of Data Structures & Algorithms
+
 ✔ Object-Oriented Programming (OOP) – Writing maintainable and scalable code
+
 ✔ Hackathons & Team Collaboration – Thriving in high-energy coding challenges
 
  Tech Stack
