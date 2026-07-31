@@ -1,4 +1,4 @@
- **Hi, I'm Atul**
+ **Hi, I'm [Atul](https://atulsanjay-zeta.vercel.app/)**
 
  MERN Stack Developer | Web Developer | Chess Enthusiast ♟️
 
