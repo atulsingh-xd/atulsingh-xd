@@ -1,20 +1,20 @@
-👋 **Hi, I'm Atul**
+ **Hi, I'm Atul**
 
-🚀 MERN Stack Developer | Web Developer | Chess Enthusiast ♟️
+ MERN Stack Developer | Web Developer | Chess Enthusiast ♟️
 
-🔹 About Me
+ About Me
 
 I’m a passionate Web Developer with expertise in MERN Stack. My focus is on building scalable, efficient, and user-friendly applications, ensuring clean UI/UX with Tailwind CSS, and writing optimized code with Data Structures.
 
 
-🔥 What I’m Good At
+ What I’m Good At
 
 ✔ Full-Stack Web Development – MERN Stack & modern UI with Tailwind CSS
 ✔ Optimized Problem-Solving – Strong grasp of Data Structures & Algorithms
 ✔ Object-Oriented Programming (OOP) – Writing maintainable and scalable code
 ✔ Hackathons & Team Collaboration – Thriving in high-energy coding challenges
 
-🛠️ Tech Stack
+ Tech Stack
 
 Frontend: React.js, Tailwind CSS, JavaScript (ES6+), HTML, CSS
 
@@ -27,9 +27,9 @@ Version Control: Git & GitHub
 Other: API Development, Problem-Solving
 
 
-📫 Let’s Connect!
+ Let’s Connect!
 
-📩 [Email](mailto:atulsingh.xd@gmail.com) 
-🔗 [LinkedIn](https://www.linkedin.com/in/atulsanjayxd/)
+ [Email](mailto:atulsingh.xd@gmail.com) 
+ [LinkedIn](https://www.linkedin.com/in/atulsanjayxd/)
 
-💡 Always open to collaborations, tech discussions, and new opportunities!
+ Always open to collaborations, tech discussions, and new opportunities!
